@@ -1,5 +1,6 @@
 {
   "name": "noradf-adminlte-template",
+  "alias": "adminlte",
   "version": "0.1.0",
   "description": "Noradf AdminLTE template - A Noradf module",
   "config": {
@@ -15,6 +16,6 @@
     "Ionicons": "~2.0.1"
   },
   "noradDependencies": {
-    "noradf-menu": "~0.1.0"
+    "noradf-menu": "~0.2.0"
   }
 }
